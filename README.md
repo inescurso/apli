@@ -1,2 +1,2 @@
 # apli
-Proyecto del curso fundamentos de Android Studio
+Proyectos en Android Studio
